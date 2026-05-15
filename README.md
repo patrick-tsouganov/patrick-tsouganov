@@ -4,7 +4,7 @@
 📍 Dublin, Ireland  
 🔭 Currently: Building my thesis capstone + AI project series  
 🌱 Learning: AI Agents · Reinforcement Learning · LLM Fine-tuning  
-💬 Ask me about: Python · Machine Learning · LLMs · Reinforcement Learning
+💬 Ask me about: Python · Machine Learning · LLMs · Reinforcement Learning  
 🔗 https://www.linkedin.com/in/patrick-tsouganov
 
 ---
